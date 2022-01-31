@@ -1,0 +1,38 @@
+[p GLOBOPT AUTOSTATIC IEEE_DBL IEEE_FLT PIC14 PICREGULAR PICMID ]
+[d version 1.1 ]
+[d edition pro ]
+[d chip 16F877 ]
+[d frameptr 0 ]
+"10 C:\Program Files\Microchip\xc8\v2.32\pic\sources\c90\common\sprcadd.c
+[v ___fladd __fladd `(d  1 e 4 0 ]
+"4 C:\Program Files\Microchip\xc8\v2.32\pic\sources\c90\common\Umul8_16.c
+[v __Umul8_16 _Umul8_16 `(ui  1 e 2 0 ]
+"6 C:\Program Files\Microchip\xc8\v2.32\pic\sources\c90\pic\__eeprom.c
+[v ___eecpymem __eecpymem `(v  1 e 1 0 ]
+"39
+[v ___memcpyee __memcpyee `(v  1 e 1 0 ]
+"48 D:\mikrodenetleyici_programlama(PIC)\Ders14(PWM)\pwm.X\pwm.c
+[v _main main `(v  1 e 1 0 ]
+"278 C:/Program Files/Microchip/MPLABX/v5.45/packs/Microchip/PIC16Fxxx_DFP/1.2.33/xc8\pic\include\proc\pic16f877.h
+[v _PORTC PORTC `VEuc  1 e 1 @7 ]
+"887
+[v _CCPR1L CCPR1L `VEuc  1 e 1 @21 ]
+"1432
+[v _TRISC TRISC `VEuc  1 e 1 @135 ]
+"1804
+[v _PR2 PR2 `VEuc  1 e 1 @146 ]
+"2278
+[v _CCP1M2 CCP1M2 `VEb  1 e 0 @186 ]
+"2281
+[v _CCP1M3 CCP1M3 `VEb  1 e 0 @187 ]
+"2665
+[v _T2CKPS0 T2CKPS0 `VEb  1 e 0 @144 ]
+"2668
+[v _T2CKPS1 T2CKPS1 `VEb  1 e 0 @145 ]
+"2695
+[v _TMR2ON TMR2ON `VEb  1 e 0 @146 ]
+"48 D:\mikrodenetleyici_programlama(PIC)\Ders14(PWM)\pwm.X\pwm.c
+[v _main main `(v  1 e 1 0 ]
+{
+"75
+} 0

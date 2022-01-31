@@ -1,0 +1,84 @@
+[p GLOBOPT AUTOSTATIC IEEE_DBL IEEE_FLT PIC14 PICREGULAR PICMID ]
+[d version 1.1 ]
+[d edition pro ]
+[d chip 16F877 ]
+[d frameptr 0 ]
+"5 C:\Program Files\Microchip\xc8\v2.32\pic\sources\c90\common\aldiv.c
+[v ___aldiv __aldiv `(l  1 e 4 0 ]
+"10 C:\Program Files\Microchip\xc8\v2.32\pic\sources\c90\common\sprcadd.c
+[v ___fladd __fladd `(d  1 e 4 0 ]
+"4 C:\Program Files\Microchip\xc8\v2.32\pic\sources\c90\common\Umul8_16.c
+[v __Umul8_16 _Umul8_16 `(ui  1 e 2 0 ]
+"6 C:\Program Files\Microchip\xc8\v2.32\pic\sources\c90\pic\__eeprom.c
+[v ___eecpymem __eecpymem `(v  1 e 1 0 ]
+"39
+[v ___memcpyee __memcpyee `(v  1 e 1 0 ]
+"61 D:\mikrodenetleyici_programlama(PIC)\Ders12(CCP_Capture(Yakalama))\capture.X\capture.c
+[v _interrupt_function interrupt_function `II(v  1 e 1 0 ]
+"78
+[v _main main `(v  1 e 1 0 ]
+"216 C:/Program Files/Microchip/MPLABX/v5.45/packs/Microchip/PIC16Fxxx_DFP/1.2.33/xc8\pic\include\proc\pic16f877.h
+[v _PORTB PORTB `VEuc  1 e 1 @6 ]
+"627
+[v _TMR1 TMR1 `VEus  1 e 2 @14 ]
+"880
+[v _CCPR1 CCPR1 `VEus  1 e 2 @21 ]
+"1370
+[v _TRISB TRISB `VEuc  1 e 1 @134 ]
+"1432
+[v _TRISC TRISC `VEuc  1 e 1 @135 ]
+"2266
+[v _CCP1IE CCP1IE `VEb  1 e 0 @1122 ]
+"2269
+[v _CCP1IF CCP1IF `VEb  1 e 0 @98 ]
+"2272
+[v _CCP1M0 CCP1M0 `VEb  1 e 0 @184 ]
+"2275
+[v _CCP1M1 CCP1M1 `VEb  1 e 0 @185 ]
+"2278
+[v _CCP1M2 CCP1M2 `VEb  1 e 0 @186 ]
+"2281
+[v _CCP1M3 CCP1M3 `VEb  1 e 0 @187 ]
+"2362
+[v _GIE GIE `VEb  1 e 0 @95 ]
+"2422
+[v _PEIE PEIE `VEb  1 e 0 @94 ]
+"2650
+[v _T1CKPS0 T1CKPS0 `VEb  1 e 0 @132 ]
+"2653
+[v _T1CKPS1 T1CKPS1 `VEb  1 e 0 @133 ]
+"2677
+[v _TMR1CS TMR1CS `VEb  1 e 0 @129 ]
+"2680
+[v _TMR1IE TMR1IE `VEb  1 e 0 @1120 ]
+"2683
+[v _TMR1IF TMR1IF `VEb  1 e 0 @96 ]
+"2686
+[v _TMR1ON TMR1ON `VEb  1 e 0 @128 ]
+"58 D:\mikrodenetleyici_programlama(PIC)\Ders12(CCP_Capture(Yakalama))\capture.X\capture.c
+[v _count count `i  1 e 2 0 ]
+"59
+[v _time time `i  1 e 2 0 ]
+"78
+[v _main main `(v  1 e 1 0 ]
+{
+"104
+} 0
+"61
+[v _interrupt_function interrupt_function `II(v  1 e 1 0 ]
+{
+"76
+} 0
+"5 C:\Program Files\Microchip\xc8\v2.32\pic\sources\c90\common\aldiv.c
+[v ___aldiv __aldiv `(l  1 e 4 0 ]
+{
+"10
+[v ___aldiv@quotient quotient `l  1 a 4 2 ]
+"11
+[v ___aldiv@sign sign `uc  1 a 1 1 ]
+[v ___aldiv@counter counter `uc  1 a 1 0 ]
+"5
+[v ___aldiv@divisor divisor `l  1 p 4 0 ]
+[v ___aldiv@dividend dividend `l  1 p 4 4 ]
+"41
+} 0

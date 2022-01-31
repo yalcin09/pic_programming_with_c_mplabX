@@ -1,0 +1,78 @@
+[p GLOBOPT AUTOSTATIC IEEE_DBL IEEE_FLT PIC14 PICREGULAR PICMID ]
+[d version 1.1 ]
+[d edition pro ]
+[d chip 16F877 ]
+[d frameptr 0 ]
+"10 C:\Program Files\Microchip\xc8\v2.32\pic\sources\c90\common\sprcadd.c
+[v ___fladd __fladd `(d  1 e 4 0 ]
+"4 C:\Program Files\Microchip\xc8\v2.32\pic\sources\c90\common\Umul8_16.c
+[v __Umul8_16 _Umul8_16 `(ui  1 e 2 0 ]
+"6 C:\Program Files\Microchip\xc8\v2.32\pic\sources\c90\pic\__eeprom.c
+[v ___eecpymem __eecpymem `(v  1 e 1 0 ]
+"39
+[v ___memcpyee __memcpyee `(v  1 e 1 0 ]
+"33 D:\mikrodenetleyici_programlama(PIC)\Ders17(Keypad)\code.X\cod.c
+[v _interrupt_function interrupt_function `II(v  1 e 1 0 ]
+"112
+[v _main main `(v  1 e 1 0 ]
+"59 C:/Program Files/Microchip/MPLABX/v5.45/packs/Microchip/PIC16Fxxx_DFP/1.2.33/xc8\pic\include\proc\pic16f877.h
+[v _TMR0 TMR0 `VEuc  1 e 1 @1 ]
+"216
+[v _PORTB PORTB `VEuc  1 e 1 @6 ]
+"278
+[v _PORTC PORTC `VEuc  1 e 1 @7 ]
+"340
+[v _PORTD PORTD `VEuc  1 e 1 @8 ]
+"627
+[v _TMR1 TMR1 `VEus  1 e 2 @14 ]
+"1370
+[v _TRISB TRISB `VEuc  1 e 1 @134 ]
+"1432
+[v _TRISC TRISC `VEuc  1 e 1 @135 ]
+"1494
+[v _TRISD TRISD `VEuc  1 e 1 @136 ]
+"2362
+[v _GIE GIE `VEb  1 e 0 @95 ]
+"2422
+[v _PEIE PEIE `VEb  1 e 0 @94 ]
+"2476
+[v _RB3 RB3 `VEb  1 e 0 @51 ]
+"2491
+[v _RBIE RBIE `VEb  1 e 0 @91 ]
+"2494
+[v _RBIF RBIF `VEb  1 e 0 @88 ]
+"2509
+[v _RC4 RC4 `VEb  1 e 0 @60 ]
+"2650
+[v _T1CKPS0 T1CKPS0 `VEb  1 e 0 @132 ]
+"2653
+[v _T1CKPS1 T1CKPS1 `VEb  1 e 0 @133 ]
+"2677
+[v _TMR1CS TMR1CS `VEb  1 e 0 @129 ]
+"2680
+[v _TMR1IE TMR1IE `VEb  1 e 0 @1120 ]
+"2683
+[v _TMR1IF TMR1IF `VEb  1 e 0 @96 ]
+"2686
+[v _TMR1ON TMR1ON `VEb  1 e 0 @128 ]
+"23 D:\mikrodenetleyici_programlama(PIC)\Ders17(Keypad)\code.X\cod.c
+[v _keypad_array keypad_array `[12]i  1 e 24 0 ]
+"28
+[v _display_array display_array `[10]i  1 e 20 0 ]
+"29
+[v _numbers numbers `[4]i  1 e 8 0 ]
+"31
+[v _step step `i  1 e 2 0 ]
+[v _count count `i  1 e 2 0 ]
+"112
+[v _main main `(v  1 e 1 0 ]
+{
+"136
+} 0
+"33
+[v _interrupt_function interrupt_function `II(v  1 e 1 0 ]
+{
+"35
+[v interrupt_function@number number `i  1 a 2 9 ]
+"110
+} 0

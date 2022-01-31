@@ -1,0 +1,45 @@
+[p GLOBOPT AUTOSTATIC IEEE_DBL IEEE_FLT PIC14 PICREGULAR PICMID ]
+[d version 1.1 ]
+[d edition pro ]
+[d chip 16F84A ]
+[d frameptr 0 ]
+"10 C:\Program Files\Microchip\xc8\v2.32\pic\sources\c90\common\sprcadd.c
+[v ___fladd __fladd `(d  1 e 4 0 ]
+"4 C:\Program Files\Microchip\xc8\v2.32\pic\sources\c90\common\Umul8_16.c
+[v __Umul8_16 _Umul8_16 `(ui  1 e 2 0 ]
+"6 C:\Program Files\Microchip\xc8\v2.32\pic\sources\c90\pic\__eeprom.c
+[v ___eecpymem __eecpymem `(v  1 e 1 0 ]
+"39
+[v ___memcpyee __memcpyee `(v  1 e 1 0 ]
+"41 D:\mikrodenetleyici_programlama(PIC)\Ders5(Matrix)\RB0_Interrupts.X\rb0.c
+[v _interrupts_function interrupts_function `II(v  1 e 1 0 ]
+"52
+[v _main main `(v  1 e 1 0 ]
+"166 C:/Program Files/Microchip/MPLABX/v5.45/packs/Microchip/PIC16Fxxx_DFP/1.2.33/xc8\pic\include\proc\pic16f84a.h
+[v _PORTA PORTA `VEuc  1 e 1 @5 ]
+"210
+[v _PORTB PORTB `VEuc  1 e 1 @6 ]
+"454
+[v _TRISA TRISA `VEuc  1 e 1 @133 ]
+"498
+[v _TRISB TRISB `VEuc  1 e 1 @134 ]
+"629
+[v _GIE GIE `VEb  1 e 0 @95 ]
+"632
+[v _INTE INTE `VEb  1 e 0 @92 ]
+"638
+[v _INTF INTF `VEb  1 e 0 @89 ]
+"689
+[v _RB6 RB6 `VEb  1 e 0 @54 ]
+"692
+[v _RB7 RB7 `VEb  1 e 0 @55 ]
+"52 D:\mikrodenetleyici_programlama(PIC)\Ders5(Matrix)\RB0_Interrupts.X\rb0.c
+[v _main main `(v  1 e 1 0 ]
+{
+"75
+} 0
+"41
+[v _interrupts_function interrupts_function `II(v  1 e 1 0 ]
+{
+"50
+} 0

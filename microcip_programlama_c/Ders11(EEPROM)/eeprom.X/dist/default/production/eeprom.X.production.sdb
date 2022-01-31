@@ -1,0 +1,55 @@
+[p GLOBOPT AUTOSTATIC IEEE_DBL IEEE_FLT PIC14 PICREGULAR PICMID ]
+[d version 1.1 ]
+[d edition pro ]
+[d chip 16F84A ]
+[d frameptr 0 ]
+"10 C:\Program Files\Microchip\xc8\v2.32\pic\sources\c90\common\sprcadd.c
+[v ___fladd __fladd `(d  1 e 4 0 ]
+"4 C:\Program Files\Microchip\xc8\v2.32\pic\sources\c90\common\Umul8_16.c
+[v __Umul8_16 _Umul8_16 `(ui  1 e 2 0 ]
+"6 C:\Program Files\Microchip\xc8\v2.32\pic\sources\c90\pic\__eeprom.c
+[v ___eecpymem __eecpymem `(v  1 e 1 0 ]
+"39
+[v ___memcpyee __memcpyee `(v  1 e 1 0 ]
+"46 D:\mikrodenetleyici_programlama(PIC)\Ders11(EEPROM)\eeprom.X\eeprom.c
+[v _interrupt_function interrupt_function `II(v  1 e 1 0 ]
+"56
+[v _main main `(v  1 e 1 0 ]
+"210 C:/Program Files/Microchip/MPLABX/v5.45/packs/Microchip/PIC16Fxxx_DFP/1.2.33/xc8\pic\include\proc\pic16f84a.h
+[v _PORTB PORTB `VEuc  1 e 1 @6 ]
+"272
+[v _EEDATA EEDATA `VEuc  1 e 1 @8 ]
+"279
+[v _EEADR EEADR `VEuc  1 e 1 @9 ]
+"454
+[v _TRISA TRISA `VEuc  1 e 1 @133 ]
+"498
+[v _TRISB TRISB `VEuc  1 e 1 @134 ]
+"604
+[v _EECON2 EECON2 `VEuc  1 e 1 @137 ]
+"623
+[v _EEIE EEIE `VEb  1 e 0 @94 ]
+"626
+[v _EEIF EEIF `VEb  1 e 0 @1092 ]
+"629
+[v _GIE GIE `VEb  1 e 0 @95 ]
+"656
+[v _RA0 RA0 `VEb  1 e 0 @40 ]
+"701
+[v _RD RD `VEb  1 e 0 @1088 ]
+"767
+[v _WR WR `VEb  1 e 0 @1089 ]
+"770
+[v _WREN WREN `VEb  1 e 0 @1090 ]
+"44 D:\mikrodenetleyici_programlama(PIC)\Ders11(EEPROM)\eeprom.X\eeprom.c
+[v _count count `i  1 e 2 0 ]
+"56
+[v _main main `(v  1 e 1 0 ]
+{
+"78
+} 0
+"46
+[v _interrupt_function interrupt_function `II(v  1 e 1 0 ]
+{
+"54
+} 0
